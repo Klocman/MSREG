@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MSREG_Bootloader", "MSREG_Bootloader\MSREG_Bootloader.cproj", "{0BF15FC4-847D-4CD2-805A-EFE9A2400A60}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "KAVR", "KAVR\KAVR.cproj", "{68506FB0-97F4-400C-963B-F37CB473EE7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF15FC4-847D-4CD2-805A-EFE9A2400A60}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0BF15FC4-847D-4CD2-805A-EFE9A2400A60}.Debug|AVR.Build.0 = Debug|AVR
+		{0BF15FC4-847D-4CD2-805A-EFE9A2400A60}.Release|AVR.ActiveCfg = Release|AVR
+		{0BF15FC4-847D-4CD2-805A-EFE9A2400A60}.Release|AVR.Build.0 = Release|AVR
+		{68506FB0-97F4-400C-963B-F37CB473EE7F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{68506FB0-97F4-400C-963B-F37CB473EE7F}.Debug|AVR.Build.0 = Debug|AVR
+		{68506FB0-97F4-400C-963B-F37CB473EE7F}.Release|AVR.ActiveCfg = Release|AVR
+		{68506FB0-97F4-400C-963B-F37CB473EE7F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
