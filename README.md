@@ -20,5 +20,6 @@ The Windows applications can be compiled in any modern version of Visual Studio 
 [You can view the full gallery here](https://github.com/Klocman/MSREG/tree/master/Documentation/Photos)
 
 ![Fully assembled and turned on](/Documentation/Photos/working2.jpg?raw=true "Fully assembled and turned on")
+![Fully assembled with the back removed](/Documentation/Photos/board_assembled_cased.jpg?raw=true "Fully assembled with the back removed")
 ![Front of a partially assembled board](/Documentation/Photos/board_new3.jpg?raw=true "Front of a partially assembled board")
 ![Back of a partially assembled board](/Documentation/Photos/board_new4.jpg?raw=true "Back of a partially assembled board")
